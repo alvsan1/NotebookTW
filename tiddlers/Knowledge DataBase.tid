@@ -1,0 +1,9 @@
+created: 20190128170202266
+icon: knowledgeDatabase.png
+modified: 20190130003827692
+title: Knowledge DataBase
+tmap.edges: {"3720e7da-db32-41d4-9b45-1778dacd4b5f":{"to":"e08909f9-f769-4e09-b8b2-c77a4a385110","type":"Incorporate"},"5d142d69-58ef-472f-ba72-633a3b68177e":{"to":"b5a9c699-5395-4c88-af37-5dfc8b11cabf","type":"Contains"},"808e5e31-13bb-4409-82cc-ffabb0cd746b":{"to":"0fbcf839-1e3e-4925-9d49-8c4c17318004","type":"Contains"}}
+tmap.id: 63a33640-ad8c-46b2-87a2-b0609a47c008
+tmap.style: {}
+type: text/vnd.tiddlywiki
+

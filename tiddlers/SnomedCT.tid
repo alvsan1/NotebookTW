@@ -1,0 +1,9 @@
+created: 20190128041535996
+icon: SnomedCT.png
+modified: 20190128175301443
+title: SnomedCT
+tmap.edges: {"e82d582b-6fc6-4b96-902f-c714e90127ae":{"to":"63a33640-ad8c-46b2-87a2-b0609a47c008","type":"Is Part"}}
+tmap.id: 1c57a43c-86ec-4dc8-9c5e-bcb73eb13e96
+tmap.style: {}
+type: text/vnd.tiddlywiki
+

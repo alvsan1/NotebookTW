@@ -1,0 +1,9 @@
+created: 20190126203819318
+icon: mirthIcono1.png
+modified: 20190129031023972
+title: MirthConnect
+tmap.edges: {"a8d8cea4-6979-4e3d-8321-6f698e701e14":{"to":"17b68eeb-085f-4b24-8700-ffa22f5e78a8","type":"Data Source"},"380193db-9a0d-468c-904b-a2d9c3cfaa0e":{"to":"04db55b6-5543-4a0b-b8c7-8e9a06224e1c","type":"Interoperate"},"85a3a686-b3b4-4327-9a12-c29e020b6f9f":{"to":"dbe01404-3eb7-4849-b7ad-ba6867233878","type":"Incorporate"}}
+tmap.id: e1133658-8856-477e-92c5-86f361707d3c
+tmap.style: {"borderWidth":2}
+type: text/vnd.tiddlywiki
+

@@ -1,0 +1,10 @@
+color: #000000
+created: 20190128205156776
+icon: FhirS.jpg
+modified: 20190130015400041
+title: FHIR Server
+tmap.edges: {"00b82364-3aae-4d3d-be61-dbf55980bf8c":{"to":"7fd3360e-395e-40f0-b30d-56d9dc7c91b3","type":"Knowledge Query"},"2632a0d4-0e57-4251-a139-366b0bf13718":{"to":"583bb5cd-8eda-4574-984c-8d00b66b5423","type":"Clinical Records"},"a71d5ed9-a1c9-4b37-a9a4-eeb1a367223f":{"to":"bd9a41d7-d65f-49f5-a757-90db7074b075","type":"Require"},"a7e7afbb-1fed-43d6-9520-0759f73f61bf":{"to":"eeb5438a-3592-4b92-a860-834cc7ed98e4","type":"Runs Inside"},"36e59232-1ba4-408b-b7bb-f6c831d8d329":{"to":"54ab422d-f8ac-4bb6-86d1-a557b67a95ec","type":"Require"}}
+tmap.id: d855e019-dc79-49dc-9977-1cd120cf3270
+tmap.style: {}
+type: text/vnd.tiddlywiki
+

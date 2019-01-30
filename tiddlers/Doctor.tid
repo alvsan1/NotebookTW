@@ -1,0 +1,9 @@
+created: 20190128173029516
+icon: Doctor-Male.png
+modified: 20190128181031643
+title: Doctor
+tmap.edges: {"da1bf8fa-22f0-49b0-a08e-a766eefcd6e8":{"to":"746FEF43-FCAD-4229-8601-50ACE50AE49B","type":"Research"},"e2b4eaef-7ad5-46ab-a896-f177f3c9d51c":{"to":"04db55b6-5543-4a0b-b8c7-8e9a06224e1c","type":"Generate EHR"}}
+tmap.id: d6bfaf19-0645-470e-acc1-6aaa3c863c29
+tmap.style: {}
+type: text/vnd.tiddlywiki
+

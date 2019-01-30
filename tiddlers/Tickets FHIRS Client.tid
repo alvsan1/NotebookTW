@@ -1,0 +1,12 @@
+created: 20190130040831414
+modified: 20190130040948961
+tags: [[Tickets Open]]
+title: Tickets FHIRS Client
+tmap.id: bd64593a-2f17-4c0e-be5e-8d6ea826c4c5
+type: text/vnd.tiddlywiki
+
+export function textRequest(concept, text) {	
+	return (dispatch,getstate) => { 
+		return fetch('http://192.168.0.105:4000/api/v/'+concept, {
+
+Parametrizar

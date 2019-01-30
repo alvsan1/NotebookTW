@@ -1,0 +1,10 @@
+created: 20190129152105493
+list: 
+modified: 20190129170452653
+tags: Project [[Tickets Open]] [[FHIR Server]]
+title: Tickets FHIRS Server
+tmap.id: e3fe9ce0-bbda-4ce2-a045-4738ea11f1d6
+type: text/vnd.tiddlywiki
+
+* ''var pathDefinitions = "./definitions/"; ''It must be parameterized.
+* ''var pathDataType = path.match((new RegExp("(.*)definitions\/")))[1]+"datatypes/";'' It must be parametrized.

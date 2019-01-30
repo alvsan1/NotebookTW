@@ -1,0 +1,10 @@
+created: 20180317162247888
+modified: 20180317162251953
+title: $:/plugins/felixhayashi/tiddlymap/misc/meta
+type: application/json
+
+{
+    "originalVersion": "0.13.3+9655",
+    "dataStructureState": "0.11.0",
+    "showWelcomeMessage": false
+}

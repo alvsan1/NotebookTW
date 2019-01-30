@@ -1,0 +1,9 @@
+created: 20190129144842632
+list: 
+modified: 20190129170452638
+tags: Project [[Tickets Open]] TiddlyWiki
+title: Tickets Tiddly
+tmap.id: 7e679797-3697-4193-8628-305b7a20aea0
+type: text/vnd.tiddlywiki
+
+*'' $tw.wiki.filterTiddlers("[newView[true]]");'' applying filters is a good option to simplify the views

@@ -1,0 +1,9 @@
+created: 20190128205221899
+icon: FhirS.jpg
+modified: 20190129232718644
+title: FHIRS Client
+tmap.edges: {"4c80155a-6a68-4913-a248-511ab8e9ec1d":{"to":"d855e019-dc79-49dc-9977-1cd120cf3270","type":"Query"},"298580ca-cb33-407e-8994-80e232eb8d8c":{"to":"eeb5438a-3592-4b92-a860-834cc7ed98e4","type":"Runs Inside"},"f085ec45-93f5-4e4e-80a8-268091b64333":{"to":"08680c24-6569-4673-b351-ef4d65af4c20","type":"Require"},"5d1db06d-e887-4ceb-8ddc-b1c4cf72b155":{"to":"8b717855-1f7d-4c59-84a2-27b6c67d4438","type":"Require"}}
+tmap.id: 8b7bd096-13b6-4795-add9-69d6b8f3d683
+tmap.style: {}
+type: text/vnd.tiddlywiki
+
