@@ -1,0 +1,11 @@
+created: 20190130052917205
+modified: 20190130053101401
+tags: Tips
+title: Tips MongoDB
+tmap.id: acf186f5-fae4-487a-9d39-43f0c98c7ede
+type: text/vnd.tiddlywiki
+
+!!! Drop Database 
+use [database];
+
+db.dropDatabase();
