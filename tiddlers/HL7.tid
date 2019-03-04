@@ -1,0 +1,15 @@
+created: 20190211193551983
+icon: HL7.png
+modified: 20190211214130880
+tags: FHIRS
+title: HL7
+tmap.id: 8486aa07-b87d-4388-b45a-4de5c0b5a783
+type: text/vnd.tiddlywiki
+
+About [[HL7|https://www.hl7.org]]
+
+Founded in 1987, Health Level Seven International (HL7) is a not-for-profit, ANSI-accredited standards developing organization dedicated to providing a comprehensive framework and related standards for the exchange, integration, sharing, and retrieval of electronic health information that supports clinical practice and the management, delivery and evaluation of health services. HL7 is supported by more than 1,600 members from over 50 countries, including 500+ corporate members representing healthcare providers, government stakeholders, payers, pharmaceutical companies, vendors/suppliers, and consulting firms.
+
+Watch a quick overview of [[Why HL7 ?|https://www.youtube.com/watch?v=BFKG7JFTef0]]
+
+Learn more about HL7 by viewing the [[Introduction to HL7|https://www.hl7.org/documentcenter/public/training/IntroToHL7/player.html]] 

@@ -1,0 +1,24 @@
+created: 20190222225112230
+modified: 20190223145258484
+tags: 
+title: Prueba Language
+tmap.id: 0d16203b-f615-4619-89cc-523b6a8286fe
+type: text/vnd.tiddlywiki
+
+\define levelFilter() [language[$(languageset)$]]
+
+<$set name="languageset" value={{$:/language}} >
+
+<$list filter=<<levelFilter>> >
+
+<<currentTiddler>>
+
+</$list>
+
+<<list-links "[language[$(languageset)$]]" 
+>>
+
+</$set>
+
+{{$:/language}}
+

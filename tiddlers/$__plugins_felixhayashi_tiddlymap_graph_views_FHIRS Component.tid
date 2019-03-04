@@ -1,8 +1,9 @@
 config.neighbourhood_scope: 
+config.vis: {"nodes":{"font":{"size":20}},"edges":{"font":{"size":18}}}
 created: 20190130014025485
 id: a5c4a4ad-6a69-40d2-92a9-f86042152472
 isview: true
-modified: 20190130034133966
+modified: 20190215214228060
 title: $:/plugins/felixhayashi/tiddlymap/graph/views/FHIRS Component
 type: text/vnd.tiddlywiki
 

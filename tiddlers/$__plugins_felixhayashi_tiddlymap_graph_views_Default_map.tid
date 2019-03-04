@@ -1,11 +1,6 @@
 created: 20180317162254175
-modified: 20190129030659395
+modified: 20190211180556729
 title: $:/plugins/felixhayashi/tiddlymap/graph/views/Default/map
 type: text/vnd.tiddlywiki
 
-{
- "485709e8-4a1d-470d-8550-ce26b95b7b64": {
-  "x": 100,
-  "y": 100
- }
-}
+{}

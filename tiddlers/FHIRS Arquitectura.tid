@@ -1,0 +1,18 @@
+created: 20190218024921427
+language: $:/languages/es-ES
+modified: 20190226002449275
+order: 2
+tags: 
+title: FHIRS Arquitectura
+tmap.id: 5de5dc1d-e8f2-4256-b73c-8af9ee4b2419
+type: text/vnd.tiddlywiki
+
+!! <<currentTiddler>>
+
+<$tiddlymap editor="vis" view="Systems Architecture" height="450px"></$tiddlymap>
+
+<br><br><br>
+
+<$tiddlymap editor="vis" view="FHIRS Component" height="450px"></$tiddlymap>
+
+

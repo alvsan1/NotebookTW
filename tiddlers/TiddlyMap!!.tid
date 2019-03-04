@@ -1,8 +1,0 @@
-created: 20180317162253922
-modified: 20190129194044164
-title: TiddlyMap!!
-tmap.edges: {"e76a767a-ac7b-408c-8bd2-935a34562c02":{"to":"63a33640-ad8c-46b2-87a2-b0609a47c008","type":"Generates / Access knowledge"},"72c2f083-b575-4386-9ce3-867351aac9e7":{"to":"746FEF43-FCAD-4229-8601-50ACE50AE49B","type":"Runs Inside"}}
-tmap.id: 485709e8-4a1d-470d-8550-ce26b95b7b64
-tmap.style: {"color":{"background":"rgba(173,36,39,1)"},"font":{"size":15}}
-type: text/vnd.tiddlywiki
-

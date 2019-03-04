@@ -1,0 +1,12 @@
+created: 20190225232517373
+descriptiontiddly: FHIRS
+language: $:/languages/en-GB
+modified: 20190226002504680
+tags: 
+title: FHIRS Description
+tmap.id: 976b3e21-5c59-40ec-8afc-b8eb322fa149
+type: text/vnd.tiddlywiki
+
+<br>
+[[FHIRS]] joins the version [[HL7|HL7]]´s [[FHIR|FHIR]] with [[Semantic Web|Semantic Web]]´s technology.
+<br>

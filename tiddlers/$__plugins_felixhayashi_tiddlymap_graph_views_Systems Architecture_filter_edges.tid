@@ -1,6 +1,6 @@
 created: 20190126201312851
 filter: -[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
-modified: 20190126201312851
-title: $:/plugins/felixhayashi/tiddlymap/graph/views/Arquitectura General/filter/edges
+modified: 20190211032741727
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Systems Architecture/filter/edges
 type: text/vnd.tiddlywiki
 
