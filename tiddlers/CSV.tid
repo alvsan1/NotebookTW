@@ -1,8 +1,8 @@
 created: 20190128033157172
 icon: CSV.png
-modified: 20190128174313434
+modified: 20190323191528391
 title: CSV
-tmap.edges: {}
+tmap.edges: {"869bdbff-431c-4041-88ef-df66a000002d":{"to":"e1133658-8856-477e-92c5-86f361707d3c","type":"Data Source"}}
 tmap.id: 17b68eeb-085f-4b24-8700-ffa22f5e78a8
 tmap.style: {}
 type: text/vnd.tiddlywiki

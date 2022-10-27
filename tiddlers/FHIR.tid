@@ -1,8 +1,8 @@
 created: 20190128034732113
 icon: Fhir.jpg
-modified: 20190128175314326
+modified: 20200524012827102
 title: FHIR
-tmap.edges: {"75b734b2-8714-4fef-9677-1b6d99d5d7c3":{"to":"1c57a43c-86ec-4dc8-9c5e-bcb73eb13e96","type":"Codes"},"a7b69ef5-7b16-452b-9a65-7ac373a0a930":{"to":"63a33640-ad8c-46b2-87a2-b0609a47c008","type":"Is Part"}}
+tmap.edges: {"75b734b2-8714-4fef-9677-1b6d99d5d7c3":{"to":"1c57a43c-86ec-4dc8-9c5e-bcb73eb13e96","type":"Codes"},"a7b69ef5-7b16-452b-9a65-7ac373a0a930":{"to":"63a33640-ad8c-46b2-87a2-b0609a47c008","type":"Is Part"},"fd06afc8-a25a-4230-b537-40f0c291a481":{"to":"746FEF43-FCAD-4229-8601-50ACE50AE49B","type":"Represented"}}
 tmap.id: dbe01404-3eb7-4849-b7ad-ba6867233878
 tmap.style: {}
 type: text/vnd.tiddlywiki

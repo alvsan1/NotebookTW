@@ -1,0 +1,15 @@
+created: 20190529043712226
+draft.of: Nuevo Tiddler
+draft.title: Prueba
+modified: 20190529041953402
+tags: 
+title: Draft of 'Nuevo Tiddler'
+type: text/vnd.tiddlywiki
+
+\define levelFilter() [language[$(languageset)$]!has[descriptiontiddly]sort[order]]
+
+<$list filter=<<levelFilter>> >
+
+<$transclude tiddler=<<currentTiddler>> />
+
+</$list>

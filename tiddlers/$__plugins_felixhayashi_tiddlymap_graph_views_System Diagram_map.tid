@@ -1,6 +1,6 @@
 created: 20190126201950128
-modified: 20190226000221040
-title: $:/plugins/felixhayashi/tiddlymap/graph/views/Systems Architecture/map
+modified: 20200606071127736
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/System Diagram/map
 type: text/vnd.tiddlywiki
 
 {
@@ -12,8 +12,8 @@ type: text/vnd.tiddlywiki
   "y": -886
  },
  "17b68eeb-085f-4b24-8700-ffa22f5e78a8": {
-  "x": -2662,
-  "y": -1090
+  "x": -2635,
+  "y": -1074
  },
  "04db55b6-5543-4a0b-b8c7-8e9a06224e1c": {
   "x": -2322,
@@ -24,8 +24,8 @@ type: text/vnd.tiddlywiki
   "y": -1014
  },
  "746FEF43-FCAD-4229-8601-50ACE50AE49B": {
-  "x": -1968,
-  "y": -1182
+  "x": -1715,
+  "y": -1207
  },
  "1c57a43c-86ec-4dc8-9c5e-bcb73eb13e96": {
   "x": -2610,
@@ -36,15 +36,19 @@ type: text/vnd.tiddlywiki
   "y": -1410
  },
  "d6bfaf19-0645-470e-acc1-6aaa3c863c29": {
-  "x": -1951,
-  "y": -963
+  "x": -1783,
+  "y": -995
  },
  "e08909f9-f769-4e09-b8b2-c77a4a385110": {
-  "x": -2209,
-  "y": -1132
+  "x": -1974,
+  "y": -974
  },
- "77ee9fd0-95ce-4d78-a28a-7e43887ae686": {
-  "x": -1960,
-  "y": -1372
+ "f3d14b00-a123-4305-9af6-ddd2a6e94e01": {
+  "x": -2715,
+  "y": -1179
+ },
+ "f29fdeb2-afe4-4722-86d7-2faa0e42a612": {
+  "x": -1889,
+  "y": -1431
  }
 }

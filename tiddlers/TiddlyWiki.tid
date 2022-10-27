@@ -1,9 +1,9 @@
 color: #000000
 created: 20141217202637180
 icon: $:/core/icon
-modified: 20190225235602694
+modified: 20200607051709658
 title: TiddlyWiki
-tmap.edges: {"25e60ff8-b301-404c-9ec5-ee48d296ee6e":{"to":"63a33640-ad8c-46b2-87a2-b0609a47c008","type":"Access knowledge"}}
+tmap.edges: {"25e60ff8-b301-404c-9ec5-ee48d296ee6e":{"to":"63a33640-ad8c-46b2-87a2-b0609a47c008","type":"Access knowledge"},"4b011cdf-f9f9-4bad-a43f-bb6f5303146a":{"to":"c5a23686-8e59-4415-9b6e-0eaf35247980","type":"source code at"},"f88874b2-ff89-4a97-a3b4-41673e290de0":{"to":"f29fdeb2-afe4-4722-86d7-2faa0e42a612","type":"Analyze"},"5538a146-018d-4872-b349-69fab2620220":{"to":"eeb5438a-3592-4b92-a860-834cc7ed98e4","type":"Runs Inside"}}
 tmap.id: 746FEF43-FCAD-4229-8601-50ACE50AE49B
 type: text/vnd.tiddlywiki
 

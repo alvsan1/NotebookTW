@@ -1,0 +1,14 @@
+created: 20190315000612596
+icon: CSV.png
+modified: 20190323193135275
+title: CDA
+tmap.edges: {"701a9b59-dcae-40de-a21b-76ffe778c5cf":{"to":"e1133658-8856-477e-92c5-86f361707d3c","type":"Data Source"}}
+tmap.id: f3d14b00-a123-4305-9af6-ddd2a6e94e01
+tmap.style: {}
+type: text/vnd.tiddlywiki
+
+The HL7 Version 3 Clinical Document Architecture (CDA®) is a document markup standard that specifies the structure and semantics of "clinical documents" for the purpose of exchange between healthcare providers and patients. It defines a clinical document as having the following six characteristics: 1) Persistence, 2) Stewardship, 3) Potential for authentication, 4) Context, 5) Wholeness and 6) Human readability.
+
+A CDA can contain any type of clinical content -- typical CDA documents would be a Discharge Summary, Imaging Report, Admission & Physical, Pathology Report and more. The most popular use is for inter-enterprise information exchange, such as is envisioned for a US Health Information Exchange (HIE).
+
+[[http://www.hl7.org/implement/standards/product_brief.cfm?product_id=7]]

@@ -1,0 +1,10 @@
+created: 20190721231404172
+modified: 20190719081406611
+tags: 
+title: Reserch
+tmap.id: 23ffd301-13c6-4be6-bed0-17954dcb341d
+type: text/vnd.tiddlywiki
+
+<$button>Create Edge
+<$action-sendmessage $message="tmap:tm-generate-widget" />
+</$button>

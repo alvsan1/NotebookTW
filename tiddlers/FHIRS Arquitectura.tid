@@ -1,6 +1,6 @@
 created: 20190218024921427
 language: $:/languages/es-ES
-modified: 20190226002449275
+modified: 20210407022424993
 order: 2
 tags: 
 title: FHIRS Arquitectura
@@ -9,10 +9,12 @@ type: text/vnd.tiddlywiki
 
 !! <<currentTiddler>>
 
-<$tiddlymap editor="vis" view="Systems Architecture" height="450px"></$tiddlymap>
+<br>
+<br>
+<br>
 
-<br><br><br>
+<$tiddlymap view="Systems Architecture" height="850px"></$tiddlymap>
 
-<$tiddlymap editor="vis" view="FHIRS Component" height="450px"></$tiddlymap>
+<$tiddlymap editor="vis" view="FHIRS Component" height="850px"></$tiddlymap>
 
 

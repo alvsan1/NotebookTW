@@ -1,9 +1,10 @@
+config.central-topic: 
 config.neighbourhood_scope: 
 config.vis: {"nodes":{"font":{"size":20}}}
 created: 20190126201312894
 id: 511290b0-7db5-41c0-97bf-d568aabad744
 isview: true
-modified: 20190215213830177
-title: $:/plugins/felixhayashi/tiddlymap/graph/views/Systems Architecture
+modified: 20200606071127701
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/System Diagram
 type: text/vnd.tiddlywiki
 

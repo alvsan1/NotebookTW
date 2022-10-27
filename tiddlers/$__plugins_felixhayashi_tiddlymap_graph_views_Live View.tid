@@ -1,10 +1,10 @@
-config.neighbourhood_scope: 1
+config.neighbourhood_scope: 
 config.physics_mode: true
 config.refresh-triggers: $:/temp/tmap/currentTiddler
 config.vis: {"physics":{"forceAtlas2Based":{"springLength":100,"springConstant":0.09,"gravitationalConstant":-339}}}
 created: 20180317162250893
 isview: true
-modified: 20190129025359435
+modified: 20190709020455485
 title: $:/plugins/felixhayashi/tiddlymap/graph/views/Live View
 type: text/vnd.tiddlywiki
 

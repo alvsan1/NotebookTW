@@ -1,0 +1,16 @@
+created: 20200606065922730
+icon: Dllearn.png
+modified: 20200607003454613
+tags: 
+title: DL-Learner
+tmap.edges: {"9c547a25-d5b6-446b-b0e8-09731eab0a36":{"to":"63a33640-ad8c-46b2-87a2-b0609a47c008","type":"Access knowledge"},"4bc305c7-d044-4e07-86d7-aa768c249422":{"to":"c5a23686-8e59-4415-9b6e-0eaf35247980","type":"source code at"}}
+tmap.id: f29fdeb2-afe4-4722-86d7-2faa0e42a612
+type: text/vnd.tiddlywiki
+
+is a framework for supervised Machine Learning in OWL, RDF and Description Logics.
+
+DL-Learner
+
+The framework contains several algorithms for supervised machine learning using structured data as background knowledge, can use various RDF and OWL formats as input, can connect to most popular OWL reasoners and is easily and flexibly configurable. It extends the ideas of Inductive Logic Programming and Relational Learning to the Semantic Web in order to allow to analyse data in knowledge bases or help in constructing knowledge bases from data.
+
+http://dl-learner.org/

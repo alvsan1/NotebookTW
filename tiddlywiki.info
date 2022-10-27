@@ -7,8 +7,7 @@
         "felixhayashi/tiddlymap",
         "felixhayashi/vis",
         "felixhayashi/hotzone",
-        "felixhayashi/topstoryview",
-        "TiddlyWikiSnomedCT"
+        "felixhayashi/topstoryview"
     ],
     "themes": [
         "tiddlywiki/vanilla",

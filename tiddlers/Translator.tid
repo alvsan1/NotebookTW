@@ -1,8 +1,8 @@
 created: 20190129034553359
 icon: Traductor.png
-modified: 20190130033602539
+modified: 20190315001221080
 title: Translator
-tmap.edges: {"c8cdbd0b-823b-4f72-8ad3-22f990806294":{"to":"7fd3360e-395e-40f0-b30d-56d9dc7c91b3","type":"Generates / Access knowledge"},"c346b48b-2613-4822-ba02-12025f2b30b0":{"to":"b5a9c699-5395-4c88-af37-5dfc8b11cabf","type":"Require"},"816e9409-fd57-453b-ac11-cd76fee98d2b":{"to":"0fbcf839-1e3e-4925-9d49-8c4c17318004","type":"Require"},"afc085c7-bb9b-401b-a2dd-049c5720e427":{"to":"bd9a41d7-d65f-49f5-a757-90db7074b075","type":"Create Service"},"3211206a-45d1-4f28-8199-3f0f7e1ae70d":{"to":"08680c24-6569-4673-b351-ef4d65af4c20","type":"Create Schema"},"89e1dfcf-4379-4228-b051-0ee42808ef84":{"to":"8b717855-1f7d-4c59-84a2-27b6c67d4438","type":"Write"},"d9af1742-b758-4597-953d-4399d460fb28":{"to":"583bb5cd-8eda-4574-984c-8d00b66b5423","type":"Create Model"}}
+tmap.edges: {"c8cdbd0b-823b-4f72-8ad3-22f990806294":{"to":"7fd3360e-395e-40f0-b30d-56d9dc7c91b3","type":"Generates / Access knowledge"},"c346b48b-2613-4822-ba02-12025f2b30b0":{"to":"b5a9c699-5395-4c88-af37-5dfc8b11cabf","type":"Require"},"816e9409-fd57-453b-ac11-cd76fee98d2b":{"to":"0fbcf839-1e3e-4925-9d49-8c4c17318004","type":"Require"},"afc085c7-bb9b-401b-a2dd-049c5720e427":{"to":"bd9a41d7-d65f-49f5-a757-90db7074b075","type":"Create Service"},"3211206a-45d1-4f28-8199-3f0f7e1ae70d":{"to":"08680c24-6569-4673-b351-ef4d65af4c20","type":"Create Schema"},"d9af1742-b758-4597-953d-4399d460fb28":{"to":"583bb5cd-8eda-4574-984c-8d00b66b5423","type":"Create Model"},"89e1dfcf-4379-4228-b051-0ee42808ef84":{"to":"8b717855-1f7d-4c59-84a2-27b6c67d4438","type":"Creates"}}
 tmap.id: 54ab422d-f8ac-4bb6-86d1-a557b67a95ec
 tmap.style: {}
 type: text/vnd.tiddlywiki

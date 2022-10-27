@@ -1,10 +1,10 @@
 created: 20190224163037938
 descriptiontiddly: FHIRS
 language: $:/languages/es-ES
-modified: 20190225233620503
+modified: 20200607045523047
 tags: 
 title: FHIRS Descripción
 tmap.id: ac3ad0ba-1a5b-4a04-a98c-483f6ff593c6
 type: text/vnd.tiddlywiki
 
-[[FHIRS]] une [[FHIR|FHIR]], versión  de [[HL7|HL7]] tecnología de la [[Web Semantica|Semantic Web]].
+[[FHIRS]] toma [[FHIR|FHIR]], estandar internacional en comunicación en Salud, versión de [[HL7|HL7]] y le incorpora tecnología de la [[Web Semantica|Semantic Web]].

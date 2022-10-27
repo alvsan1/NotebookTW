@@ -1,6 +1,6 @@
 created: 20190128040028758
-icon: RDF4J.png
-modified: 20190225235319256
+icon: ApacheJena.png
+modified: 20210407021849827
 title: RDFStore
 tmap.edges: {"ba2051a0-addd-4b78-8aa5-2ba626f32707":{"to":"63a33640-ad8c-46b2-87a2-b0609a47c008","type":"Implemented"},"167c7a3f-5e06-406f-87c0-2d893d1beff9":{"to":"0fbcf839-1e3e-4925-9d49-8c4c17318004","type":"Contains"},"528b4dec-231d-42e4-b037-98da65e5b2d8":{"to":"b5a9c699-5395-4c88-af37-5dfc8b11cabf","type":"Contains"}}
 tmap.id: 7fd3360e-395e-40f0-b30d-56d9dc7c91b3
